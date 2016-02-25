@@ -1,2 +1,3 @@
 # hello-github
-My first time to use github. It just for proctice.
+My first time to use github. 
+It's just for proctice.
